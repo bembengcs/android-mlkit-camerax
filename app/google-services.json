@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1082873770886",
+    "firebase_url": "https://android-mlkit-camerax.firebaseio.com",
+    "project_id": "android-mlkit-camerax",
+    "storage_bucket": "android-mlkit-camerax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082873770886:android:0fba234257e7ffe86df207",
+        "android_client_info": {
+          "package_name": "com.bembengcs.androidmlkitcamerax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082873770886-2eap9e48op8fqp277p7ov4pkaoa3sg81.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bembengcs.androidmlkitcamerax",
+            "certificate_hash": "f0bc46d90c2969810f9b0d69387d1c81fdb1cc3a"
+          }
+        },
+        {
+          "client_id": "1082873770886-vpde95tqiirf2ch4lg93ipu7dg08q4pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwj9inFw1uOtlB9fnsv6MOotJuG3SPzS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082873770886-vpde95tqiirf2ch4lg93ipu7dg08q4pd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
